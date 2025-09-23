@@ -1,0 +1,23 @@
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    padding: 10px;
+    box-shadow:  0px 1px 3px -2px;
+    height: 80px;
+    font-family: 'poppins';
+}
+.nav-logo{
+    width: 200px;
+    height: 100px;
+
+
+
+}
+.Navbar ul{
+    display: flex;
+    list-style: none;
+    gap: 100px;
+    justify-content: space-between;
+
+}

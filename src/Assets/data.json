@@ -1,0 +1,53 @@
+[
+  {   "id": "a1",
+    "patientName": "Suresh",
+    "contact": "555-123-4567",
+    "age": 34
+  },
+  {   "id":"a2",
+    "patientName": "Ramesh",
+    "contact": "555-987-6543",
+    "age": 52
+  },
+  {  "id":"a3",
+    "patientName": "Ahkilesh",
+    "contact": "555-555-5555",
+    "age": 12
+  },
+  {  "id": "a4",
+    "patientName": "Vinayr",
+    "contact": "555-867-5309",
+    "age": 28
+  },
+  {   "id": "a5",
+    "patientName": "Suchithra",
+    "contact": "555-246-8010",
+    "age": 67
+  },
+  {  "id": "a6",
+    "patientName": "Sowmya",
+    "contact": "555-111-2222",
+    "age": 45
+  },
+  {   "id":"a7",
+    "patientName": "Pallavi",
+    "contact": "555-333-4444",
+    "age": 78
+  },
+  {   "id":"a8",
+    "patientName": "Lakshmi",
+    "contact": "555-555-6666",
+    "age": 21
+  },
+  {  "id":"a9",
+    "patientName": "Stephen",
+    "contact": "555-777-8888",
+    "age": 39
+  },
+  {  
+    "id":"b1",
+    "patientName": "Farooq",
+    "contact": "555-999-0000",
+    "age": 61
+  }
+]
